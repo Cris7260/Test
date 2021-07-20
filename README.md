@@ -1,2 +1,4 @@
 #Test
-Added another line to README.md
+hellowWorld → Hello World!
+helloWorld Nokia → Hello Nokia!
+helloWorld "any_other_string" → Oops! Unkown "any_other_string"
